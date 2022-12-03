@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ombrelin.AdventOfCode.Core", "src\Ombrelin.AdventOfCode.Core\Ombrelin.AdventOfCode.Core.csproj", "{EA1023B6-1082-4985-8C3F-6C3377708BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ombrelin.AdventOfCode.Core.Tests", "test\Ombrelin.AdventOfCode.Core.Tests\Ombrelin.AdventOfCode.Core.Tests.csproj", "{8C054CA4-CE01-4010-968C-7E07A0127C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmbreAventOfCode.Console", "src\OmbreAventOfCode.Console\OmbreAventOfCode.Console.csproj", "{7CC043AC-E783-45D4-A43D-52A8EE5A0482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1023B6-1082-4985-8C3F-6C3377708BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1023B6-1082-4985-8C3F-6C3377708BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1023B6-1082-4985-8C3F-6C3377708BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1023B6-1082-4985-8C3F-6C3377708BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C054CA4-CE01-4010-968C-7E07A0127C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C054CA4-CE01-4010-968C-7E07A0127C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C054CA4-CE01-4010-968C-7E07A0127C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C054CA4-CE01-4010-968C-7E07A0127C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC043AC-E783-45D4-A43D-52A8EE5A0482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC043AC-E783-45D4-A43D-52A8EE5A0482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC043AC-E783-45D4-A43D-52A8EE5A0482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC043AC-E783-45D4-A43D-52A8EE5A0482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
